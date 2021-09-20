@@ -1,0 +1,5 @@
+# Apache HTML synced folder
+html/
+
+# The vagrant folder
+.vagrant
